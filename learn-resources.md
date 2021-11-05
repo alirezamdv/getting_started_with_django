@@ -6,6 +6,8 @@
 
 - Your first Django App [Link](https://docs.djangoproject.com/en/3.2/intro/tutorial01/)
 
+- Django Rest Framework [Link](https://www.django-rest-framework.org/tutorial/quickstart/)
+
 
 ## Relational Databases
 
